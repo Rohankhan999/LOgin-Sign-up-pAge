@@ -22,3 +22,6 @@ function login() {
     Username.value = "";
     Password.value = "";
 }
+
+var resultOfComputation = ((2 * 4) * 4) + 2;
+console.log(resultOfComputation);
